@@ -1,1 +1,1 @@
-# Golangtrainingandassignments
+# Golang training and assignments
